@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 
-public class TestDateUtil {
+public class Test {
 
 	public static void main(String[] args) throws FileNotFoundException, IOException, ClassNotFoundException {
 		DateUtil dateUtil1 = DateUtil.getInstance();
